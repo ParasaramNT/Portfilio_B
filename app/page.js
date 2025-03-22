@@ -6,7 +6,7 @@ import WhatIDo from "@/components/WhatIDo";
 import LetsWorkTogether from "@/components/LetsWorkTogether";
 export default function HomePage() {
   return (
-    <div className="">
+    <div className="w-[95%] mx-auto">
       <Home/>
       <AboutMe/>
       <FeaturedWork/>

@@ -2,7 +2,7 @@ import React from 'react'
 
 const WhatIDo = () => {
   return (
-    <div>
+    <div className='mx-[25px]'>
       What I Do
     </div>
   )

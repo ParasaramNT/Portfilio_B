@@ -2,7 +2,7 @@ import React from 'react'
 
 const Nav = () => {
   return (
-    <div className='w-[95%] mx-auto' >
+    <div className="w-[95%] mx-auto">
       <ul className='flex justify-between  mx-auto py-[15px]'>
         <div className='flex my-auto'>
           <li className='mx-[25px] text-2xl'>Home</li>

@@ -2,7 +2,7 @@ import React from 'react'
 
 const FeaturedWork = () => {
   return (
-    <div>
+    <div className='mx-[25px]'>
       Featured Work
     </div>
   )
